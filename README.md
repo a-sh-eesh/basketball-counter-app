@@ -31,8 +31,8 @@
 
 ### Links
 
-- [Live 🔗](https://iqra0001.github.io/Basketball-Scoreboard/)
-
+[- [Live 🔗](https://iqra0001.github.io/Basketball-Scoreboard/)
+](https://majestic-bombolone-627fa9.netlify.app)
 ## My process
 
 ### Languages and Tools
